@@ -11,7 +11,7 @@ public class SpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Congratulations Dileepa Hesh";
+		return "Congratulations Dileepa Heshh";
 	}
 
 	public static void main(String[] args) {
